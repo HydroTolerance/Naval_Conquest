@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/scn_loading.unity
+    guid: 6ef2dc02575f8af42857eeaea4b6c1c2
+  - enabled: 1
+    path: Assets/Scenes/scn_home.unity
+    guid: 40e0f8e7074f03e4587d9b3c8b7be130
+  - enabled: 1
+    path: Assets/Scenes/scn_login.unity
+    guid: 530320d60d1d4dc418307da27684006c
+  - enabled: 1
+    path: Assets/Scenes/scn_lobby.unity
+    guid: 4fc341536cb5e654bb8cf7af068cd848
+  - enabled: 1
+    path: Assets/Scenes/scn_game.unity
+    guid: 1887cb76a975f004687076a57a0c0aff
+  - enabled: 1
+    path: Assets/Scenes/winning.unity
+    guid: bd675beae956c1d4d9d41b77a2f06413
+  m_configObjects: {}

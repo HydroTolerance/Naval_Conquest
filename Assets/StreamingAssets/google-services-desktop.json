@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "399372472499",
+    "firebase_url": "https://gamedev-f254d-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "gamedev-f254d",
+    "storage_bucket": "gamedev-f254d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399372472499:android:3c84d386940f1dc4e0a0c6",
+        "android_client_info": {
+          "package_name": "com.plv.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399372472499-ku4uqd76kjce2q0sshkerto6dpurh2vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-LbJ3TCe1g9zfDkNE_a_SRuYoH08FXjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399372472499-ku4uqd76kjce2q0sshkerto6dpurh2vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
